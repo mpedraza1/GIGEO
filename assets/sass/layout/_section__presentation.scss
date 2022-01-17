@@ -1,0 +1,26 @@
+.section__presentation{
+    justify-content: space-between;
+    width: 100%;
+}
+.artist{
+    border-radius: 50%;
+    height:5rem;
+    margin-left: 15rem;
+    margin-top:1rem;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+h1{
+    font-size:x-large;
+    font-weight: 700;
+    position: relative;    
+    margin-left:$MarginPresentation;
+    
+}
+h2{
+    font-size: small;
+    margin-left:$MarginPresentation;
+}

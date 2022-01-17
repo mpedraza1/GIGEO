@@ -1,0 +1,28 @@
+.section__buttons{
+    height: 5rem;
+    padding-right: 5rem;
+    display: flex;
+    justify-content: end;
+    font-size: x-large;
+}
+
+.button1{
+    background-color: $turquoise;
+    color: $white;
+    border: 0;
+    width: $widthButtons;
+    margin-left:12rem;  
+    height: $heightButtons;
+    
+    
+}
+.button2{
+    background-color: $coral;
+    color: $white; 
+    border: 0;
+    width:$widthButtons;
+    height: $heightButtons;
+    margin-left:0.6em;
+
+}
+

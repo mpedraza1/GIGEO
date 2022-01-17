@@ -1,0 +1,39 @@
+.section{&__videos{    
+    margin-left: 14rem;
+    margin-right: 3rem;
+    padding-top: 3rem;
+    justify-content: center;
+
+    .flex-container{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .titulo{
+        width: 100%;
+        margin-left: 1rem;
+        padding-bottom: 2rem; 
+    }
+
+    .card{
+        width:23rem;
+        border: hidden;
+    }
+
+    .title{
+        margin-left: 1rem;
+        font-size: large;
+    }
+
+    .subtitle{
+        margin-left: 1rem;
+        font-size: medium;
+        padding-bottom: 3rem;
+    }
+    
+    img{
+        height:13rem;
+        padding:1rem;  
+    }
+    
+}}
